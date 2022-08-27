@@ -1,0 +1,28 @@
+.dense-container{
+    display: flex;    
+    margin:1.5% 0 1.5% 0;
+}
+.large-articles{
+    flex: 7;
+  
+    margin-left: 2.5%;
+}
+.large-articles1{
+    flex: 7;
+  
+   
+}
+.medium-articles{
+    flex: 2;
+    text-align: left;
+
+}
+
+.medium-articles>div:nth-child(2){
+    padding-top: 2%;
+}
+.small-articles{
+    flex: 3;
+    height:170px;
+    flex:4;
+}
