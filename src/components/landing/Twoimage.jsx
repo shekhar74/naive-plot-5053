@@ -3,7 +3,7 @@ import "./component.css"
 import {Box, Flex } from '@chakra-ui/react'
 
 const product = [{
-    img:"https://res.cloudinary.com/ssenseweb/image/upload/w_768,q_90,f_auto,dpr_auto/v1661262990/gnevtuxq72dwprxvefzz.jpg",
+    img:"https://res.cloudinary.com/ssenseweb/image/upload/w_768,q_90,f_auto,dpr_auto/v1666962549/mlui0oebfjlwcalnbwsf.jpg",
     category:"Market",
     name:"BROWN NOISE RESET",
     description:"Chill Is a Vibe with Beats by Kim, Acne Studios, and Tekla",
